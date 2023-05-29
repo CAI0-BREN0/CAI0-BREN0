@@ -11,8 +11,8 @@
 <h3>Meus status Github </h3> 
 <div>
   <a href= "https://github.com/CAI0-BREN0">
-<img height="180em"src = "https://github-readme-stats.vercel.app/api?username=CAI0-BREN0&theme=github_dark&include_all_commits&show_icons=true)](https://github.com/CAI0-BREN0/github-readme-stats"/>
-  <img height="180em"src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CAI0-BREN0&layout=compact&theme=github_dark&include_all_commits&show_icons=true)](https://github.com/CAI0-BREN0/github-readme-stats"/>
+<img height="180em"src = "https://github-readme-stats.vercel.app/api?username=CAI0-BREN0&theme=github_dark&show_icons=true&include_all_commits)](https://github.com/CAI0-BREN0/github-readme-stats"/>
+  <img height="180em"src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CAI0-BREN0&theme=github_dark&layout=compact&include_all_commits&show_icons=true)](https://github.com/CAI0-BREN0/github-readme-stats"/>
 </div>
 <div stile ="display: inline_block"><br>
    <img  align ="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
