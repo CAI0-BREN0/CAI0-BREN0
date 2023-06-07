@@ -1,29 +1,40 @@
-### Olá 👋
-<h2>Bem vindos</h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0b08c6&height=120&section=header"/>
 
-<h3>Oi!, meu nome é Caio sou aluno de Ciência da computação </h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0b08c6&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋+WORLD🌎,+My+name+is+Caio+Breno;I'm+20+years+old;I'm+from+Brazil;I'm+student+computer+science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<h3>XP</h3>
-<ul>
-  <li>Suporte tecnico - secretaria de segurança pública (ssp) </li>
-  <li>Uninorte - Ciência da Computação  5ºperíodo  </li>
-</ul>
-<h3>Meus status Github </h3> 
-<div>
-  <a href= "https://github.com/CAI0-BREN0">
-<img height="180em"src = "https://github-readme-stats.vercel.app/api?username=CAI0-BREN0&theme=github_dark&show_icons=true&include_all_commits)](https://github.com/CAI0-BREN0/github-readme-stats"/>
-  <img height="180em"src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CAI0-BREN0&theme=github_dark&layout=compact&include_all_commits&show_icons=true)](https://github.com/CAI0-BREN0/github-readme-stats"/>
-</div>
-<div stile ="display: inline_block"><br>
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CAI0-BREN0&bg_color=0db1117&color=ffffff&line=0b08c7&point=0b08b4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+  <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CAI0-BREN0&theme=algolia&layout=compact&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+  
+### Studying in this moment:
+<div align="center" stile ="display: inline_block"><br>
    <img  align ="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img  align ="center" alt="python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img align="center" alt="html" height="35" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="center" alt="js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="css" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
+<h3> 
+</h3>
+<div  align="center">
+  <a href= "https://github.com/CAI0-BREN0">
+<img height="180em"src = "https://github-readme-stats.vercel.app/api?username=CAI0-BREN0&theme=github_dark&show_icons=true&include_all_commits)](https://github.com/CAI0-BREN0/github-readme-stats"/>
+  <img height="180em"src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CAI0-BREN0&theme=github_dark&layout=compact&include_all_commits&show_icons=true)](https://github.com/CAI0-BREN0/github-readme-stats"/>
+</div>
 <div>
-<h3>Contato</h3>
-<p><a href="https://www.linkedin.com/in/caiobreno" target="_blank"><img align="center" alt="LinkedIn" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
+<p align="center"><a href="https://www.linkedin.com/in/caiobreno" target="_blank"><img align="center" alt="LinkedIn" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
+ </a>
 </p> 
 </div>
-![snake gif](https://github.com/CAI0-BREN0/CAI0-BREN0/blob/output/github-contribution-grid-snake.svg)
+  
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{CAI0-BREN0}/count.svg" /></p> 
+<br>
+</div>
+  
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0b08c6&height=120&section=footer"/>
