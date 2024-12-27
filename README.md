@@ -1,3 +1,7 @@
+<a href="https://github.com/CAI0-BREN0/CAI0-BREN0/blob/main/src/CAIO%20BRENO%20(1).gif">
+  <img src="https://github.com/CAI0-BREN0/CAI0-BREN0/blob/main/src/CAIO%20BRENO%20(1).gif" alt="Fallout GIF" style="width:auto; height:auto"/>
+</a>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0b08c6&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0b08c6&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋+WORLD🌎,+My+name+is+Caio+Breno;I'm+21+years+old;I'm+from+Brazil;I'm+student+computer+science;Be+Welcome!+:%29)](https://git.io/typing-svg)
