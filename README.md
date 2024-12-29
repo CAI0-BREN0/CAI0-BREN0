@@ -52,8 +52,10 @@
 </h3>
 <h3>Contato</h3>
 <div>
-<p align="center"><a href="https://www.linkedin.com/in/caiobreno" target="_blank"><img align="center" alt="LinkedIn" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
- </a>
+<p align="center"><a href="https://www.instagram.com/caio0_0b/profilecard/?igsh=MTAwcno3ZmZvdnkzNA==" target="_blank"><img align="center" alt="LinkedIn" height="50" width="40" src="https://skillicons.dev/icons?i=instagram"/></a>
+<a href="https://www.linkedin.com/in/caiobreno" target="_blank"><img align="center" alt="LinkedIn" height="50" width="40" src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://discord.com/invite/F53KfT2f" target="_blank"><img align="center" alt="LinkedIn" height="50" width="40" src="https://skillicons.dev/icons?i=discord"/></a>
+<a href="mailto:caiobrenoliveira@gmail.com" target="_blank"><img align="center" alt="LinkedIn" height="50" width="40" src="https://skillicons.dev/icons?i=gmail"/></a>
 </p> 
 </div>
   
