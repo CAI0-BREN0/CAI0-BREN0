@@ -6,7 +6,8 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0b08c6&size=45&center=true&vCenter=true&width=1000&lines=HELLO👋+WORLD🌎,+My+name+is+Caio+Breno;I'm+21+years+old;I'm+from+Brazil;I'm+student+computer+science;Be+Welcome!+:%45)](https://git.io/typing-svg)
+<h1 align="center">Hello Word🌏, I'm Caio👨🏽‍💻</h1>
+<h4 align="left"><I>🔎I am an enthusiastic front-end developer and web designer, currently pursuing my degree in Computer Science👨🏽‍🎓. I am dedicated to enhancing my programming skills while exploring various areas of Information Technology.<br> 🎯 My goal is to acquire comprehensive knowledge that will enable me to contribute meaningfully to innovative and challenging projects in the field. This version emphasizes your interests and goals clearly and engagingly.</I></h4>
      
 
  <h2>🎯 My qualities</h2>
