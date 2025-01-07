@@ -15,7 +15,6 @@
 
 
 <h3> 
-  <br>
  💪🏼 | Resilience and adaptability in work.</br>
  🔭 | Always interested in learning.</br>
  🏹 | Focused on personal and interpersonal development.</br>
@@ -25,9 +24,8 @@
  💬 | effectively communicative.</br>
  ✅ | Always ready for critical moments.</br>
  🔎 | Interested in developing websites and other applications. 
-</h3> <div align="left"> 
-
-  <div align="center">  
+</h3> 
+<div align="left"> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CAI0-BREN0&show_icons=true&theme=github_dark&count_private=true&hide_border=true" alt="Caio Breno github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAI0-BREN0&layout=compact&theme=github_dark&hide_border=true" />
 </div>
