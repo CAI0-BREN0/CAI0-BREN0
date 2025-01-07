@@ -10,7 +10,7 @@
 <h4 align="left"><I>🔎I am an enthusiastic front-end developer and web designer, currently pursuing my degree in Computer Science👨🏽‍🎓. I am dedicated to enhancing my programming skills while exploring various areas of Information Technology.<br> 🎯 My goal is to acquire comprehensive knowledge that will enable me to contribute meaningfully to innovative and challenging projects in the field. This version emphasizes your interests and goals clearly and engagingly.</I></h4>
      
 
- <h2 align="center">🎯 My qualities</h2>
+ <h2 align="center"> 💼 My qualities ⏰</h2>
 <img align="right" alt="coding-gif" width="400" src="https://github.com/CAI0-BREN0/CAI0-BREN0/blob/main/src/KIROKAZE.gif">
 
 
@@ -30,7 +30,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAI0-BREN0&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
-<h2 align="center">💾 Languages &  🛠️tools I Have placed My Hands On🤲🏼 </h2>
+<h2 align="center">💾 Languages &  🛠️tools I Have placed My Hands On🖐🏼 </h2>
 
 <br/>
 <div align="center">
