@@ -40,6 +40,14 @@
     <img src="https://skillicons.dev/icons?i=docker,aws,azure,github,git,arduino,androidstudio,ubuntu,pwsh" /><br>
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CAI0-BREN0&bg_color=0db1117&color=ffffff&line=0b08c7&point=0b08b4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+ 
+  <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CAI0-BREN0&theme=algolia&layout=compact&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
 
 <h3> 
 </h3>
