@@ -15,6 +15,7 @@
 
 
 <h3> 
+  <br>
  💪🏼 | Resilience and adaptability in work.</br>
  🔭 | Always interested in learning.</br>
  🏹 | Focused on personal and interpersonal development.</br>
