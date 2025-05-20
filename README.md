@@ -27,7 +27,7 @@
 </h3> 
 <div align="left"> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CAI0-BREN0&show_icons=true&theme=github_dark&count_private=true&hide_border=true" alt="Caio Breno github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAI0-BREN0&layout=compact&theme=github_dark&hide_border=true" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAI0-BREN0&layout=compact&hide_border=true&theme=github_dark" />
 </div>
 
 <h2 align="center">💾 Languages &  🛠️tools I Have placed My Hands On🖐🏼 </h2>
